@@ -5,9 +5,13 @@ Este es un programa de consola que permite convertir entre diferentes divisas de
 # Requerimientos
 Para ejecutar este programa, necesitarás:
 
-*Java SE 1.8 o superior
-*Una conexión a internet para actualizar los valores de la API de apilayer
-*Una conexión a una base de datos MySQL para almacenar los valores de las divisas
+*Java SE 1.8 o superior.
+
+*Una conexión a internet para actualizar los valores de la API de apilayer.
+
+*Una conexión a una base de datos MySQL para almacenar los valores de las divisas.
+
+*Es necesario crear una cuenta en APILAYER y configurar la contraseña en la carpeta de resources.
 # Instalación
 Descarga el archivo .jar del programa en tu ordenador.
 Crea una base de datos MySQL en tu servidor local(La configuración de la base de datos es la local por defecto).
