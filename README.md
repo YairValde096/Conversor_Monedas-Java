@@ -20,6 +20,8 @@ Ejecuta el archivo .jar en tu terminal o consola.
 Al ejecutar el programa, se podrá interactuar con los ComboBox para elegir el pais, Los JSpinner servirán para interactuar con las cantidades.
 El programa mostrará la cantidad de dinero equivalente en la moneda de destino.
 También se mostrará la bandera del país correspondiente a la moneda de origen y la bandera del país correspondiente a la moneda de destino, obtenidas de la API bandera.xyz.
+![Gifs.gif](https://https://github.com/YairValde096/Conversor_Monedas-Java/blob/main/resources/images/Gifs.gif)
 Notas adicionales
 Este programa consume la API de apilayer para obtener los valores de las divisas, por lo que es necesario tener una conexión a internet para actualizar los valores de la API.
 Si es posible, el sistema se mantendrá actualizado segun la fecha del sistema.
+
